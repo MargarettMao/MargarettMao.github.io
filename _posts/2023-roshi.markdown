@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild"
+date:   2025-09-16 22:21:59 +00:00
+image: /images/RoSHI_Exam.jpg
+categories: research
+author: "Wenjing Mao"
+authors: "<strong>Wenjing Mao*</strong>, Jefferson Ng*, Luyang Hu, Daniel Gehrig, Antonio Loquercio"
+venue: "Under Review, 2025"
+---
+We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
