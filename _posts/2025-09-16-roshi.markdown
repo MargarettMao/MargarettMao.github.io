@@ -6,5 +6,5 @@ image: /images/RoSHI_Exam.png
 categories: research
 author: "Wenjing Mao"
 authors: "<strong>Wenjing Mao*</strong>, Jefferson Ng*, Luyang Hu, Daniel Gehrig, Antonio Loquercio"
-venue: "Under Review, 2025"
+venue: "Under Review"
 ---
