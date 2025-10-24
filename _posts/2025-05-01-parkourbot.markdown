@@ -2,7 +2,7 @@
 layout: post
 title:  "ParkourBot: Adaptive Locomotion & Obstacle Navigation via Hierarchical Reinforcement Learning"
 date:   2025-05-01 12:00:00 +00:00
-image: /images/parkour_bot.mp4
+image: /images/parkour.gif
 categories: UPenn
 course: "ESE 650"
 author: "Wenjing Mao"
