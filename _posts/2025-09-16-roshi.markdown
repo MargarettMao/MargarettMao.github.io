@@ -8,3 +8,4 @@ author: "Wenjing Mao"
 authors: "<strong>Wenjing Mao*</strong>, Jefferson Ng*, Luyang Hu, Daniel Gehrig, Antonio Loquercio"
 venue: "Under Review"
 ---
+RoSHI is an egocentric-only hybrid sensing system that combines sparse IMUs with Project Aria glasses to capture long-horizon, occlusion-robust human motion in global 3D space, enabling scalable and in-the-wild human-to-robot data collection for policy learning.
