@@ -2,7 +2,7 @@
 layout: post
 title:  "Audio Perception in Robot Manipulation"
 date:   2023-12-08 21:21:53 +00:00
-image: /images/audio_robot.jpg
+image: /images/audio_robot.png
 categories: research
 author: "Wenjing Mao"
 authors: "<strong>Wenjing Mao</strong>, Xinqi Zou, Lerrel Pinto"

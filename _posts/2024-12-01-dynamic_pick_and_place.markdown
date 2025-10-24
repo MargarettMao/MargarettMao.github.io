@@ -2,7 +2,7 @@
 layout: post
 title:  "Dynamic Pick-and-Place Motion Planning with Franka Arm"
 date:   2024-12-01 12:00:00 +00:00
-image: 
+image: /images/dynamic.jpg
 categories: UPenn
 course: "MEAM 5200"
 author: "Wenjing Mao"
