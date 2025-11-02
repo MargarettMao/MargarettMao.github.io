@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dynamic Pick-and-Place Motion Planning with Franka Arm"
-date:   2024-12-01 12:00:00 +00:00
+date:   2025-04-10 12:00:00 +00:00
 image: /images/cube_stacking.gif
 categories: UPenn
 course: "MEAM 5200 Introduction to Robotics Course"
