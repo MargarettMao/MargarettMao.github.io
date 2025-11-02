@@ -1,1 +1,1 @@
-convert -background none "images/robot_emoji.png" -define icon:auto-resize=16,24,32,48,64,72,96,128,256 "favicon.ico"
+magick -background none "images/robot_emoji.png" -define icon:auto-resize=16,24,32,48,64,72,96,128,256 "favicon.ico"
