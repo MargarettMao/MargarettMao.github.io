@@ -4,7 +4,7 @@ title:  "Autonomous F1TENTH Car Racing"
 date:   2025-04-01 12:00:00 +00:00
 image: 
 categories: UPenn
-course: "ESE 615"
+course: "ESE 6150 F1TENTH Autonomous Racing Cars"
 author: "Wenjing Mao"
 video: 
 paper:

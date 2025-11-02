@@ -4,7 +4,7 @@ title:  "Adaptive Adeversarial Approaches for Sketch-based Image Colorization"
 date:   2024-11-01 12:00:00 +00:00
 image: /images/colorization.jpg
 categories: UPenn
-course: "ESE 546"
+course: "ESE 5460 Principles of Deep Learning"
 author: "Wenjing Mao"
 video: 
 paper:

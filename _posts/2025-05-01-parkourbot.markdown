@@ -4,7 +4,7 @@ title:  "ParkourBot: Adaptive Locomotion & Obstacle Navigation via Hierarchical 
 date:   2025-05-01 12:00:00 +00:00
 image: /images/parkour.gif
 categories: UPenn
-course: "ESE 650"
+course: "ESE 6500 Learning in Robotics"
 author: "Wenjing Mao"
 video: https://www.youtube.com/watch?v=DPRVR94eFfw
 paper:
