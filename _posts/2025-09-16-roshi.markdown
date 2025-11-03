@@ -8,4 +8,4 @@ author: "Wenjing Mao"
 authors: "<strong>Wenjing Mao*</strong>, Jefferson Ng*, Luyang Hu, Daniel Gehrig, Antonio Loquercio"
 venue: "Under Review"
 ---
-RoSHI is an hybrid motion captureing system that enables large-scale, in-the-wild human-to-robot data collection, supporting not only motion imitation but also the training of robot behaviors from human data.
+RoSHI is a hybrid motion-capturing system that enables large-scale, in-the-wild human-to-robot data collection, supporting not only motion imitation but also the training of robot behaviors from human data.
